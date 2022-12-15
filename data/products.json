@@ -1,0 +1,138 @@
+[
+    
+    {
+        "package_id": "01",
+        "title": "Amazing Men's Collection",
+        "img": "https://i.ibb.co/2WggpNj/4-f.jpg",
+        "price": "10000",
+        "classNames": "active",
+        "products": [
+            {
+                "id": "0",
+                "img": "https://i.ibb.co/wYST9Lv/13-1.jpg",
+                "name": "Men's Full shirt",
+                "price":"$55"
+            },
+            {
+                "id": "1",
+                "img": "https://i.ibb.co/H21hH7x/16-1.jpg",
+                "name": "Men's Check shirt",
+                "price":"$45"
+            },
+            {
+                "id": "2",
+                "img": "https://i.ibb.co/Qn9LDFd/17-1.jpg",
+                "name": "Men's Shoes",
+                "price":"$150"
+            },
+            {
+                "id": "3",
+                "img": "https://i.ibb.co/CQfFyR2/18-1.jpg",
+                "name": "Men's Watch",
+                "price":"$55"
+            },
+            {
+                "id": "4",
+                "img": "https://i.ibb.co/8KNR8RH/19-1.jpg",
+                "name": "Men's Black T-shirt",
+                "price":"$30"
+            },
+            {
+                "id": "5",
+                "img": "https://i.ibb.co/kGsSHfX/20-1.jpg",
+                "name": "Men's Premium Watch",
+                "price":"$55"
+            }
+        ]
+    },
+    {
+        "package_id": "02",
+        "title": "Amazing Women's Collection",
+        "img": "https://i.ibb.co/QP40jdn/7.jpg",
+        "price": "10000",
+        "classNames": "active",
+        "products": [
+            {
+                "id": "0",
+                "img": "https://i.ibb.co/k4hdPmF/2-f.jpg",
+                "name": "Women's Red Cloth",
+                "price":"$55"
+            },
+            {
+                "id": "1",
+                "img": "https://i.ibb.co/12DSLDx/5-f.jpg",
+                "name": "Amazing white tops",
+                "price":"$45"
+            },
+            {
+                "id": "2",
+                "img": "https://i.ibb.co/QP40jdn/7.jpg",
+                "name": "Yellow T-shirt",
+                "price":"$150"
+            },
+            {
+                "id": "3",
+                "img": "https://i.ibb.co/brVLk8n/21-1.jpg",
+                "name": "Amazing hat",
+                "price":"$55"
+            },
+            {
+                "id": "4",
+                "img": "https://i.ibb.co/NmZVqQ5/22-1.jpg",
+                "name": "Sunglass",
+                "price":"$30"
+            },
+            {
+                "id": "5",
+                "img": "https://i.ibb.co/1sxg9zK/23-1.jpg",
+                "name": "Amazing Bags",
+                "price":"$55"
+            }
+        ]
+    },
+    {
+        "package_id": "03",
+        "title": "Amazing Kids Collection",
+        "img": "https://i.ibb.co/8KNR8RH/19-1.jpg",
+        "price": "10000",
+        "classNames": "active",
+        "products": [
+            {
+                "id": "0",
+                "img": "https://i.ibb.co/wYST9Lv/13-1.jpg",
+                "name": "Kid's Full shirt",
+                "price":"$55"
+            },
+            {
+                "id": "1",
+                "img": "https://i.ibb.co/H21hH7x/16-1.jpg",
+                "name": "Kid's Check shirt",
+                "price":"$45"
+            },
+            {
+                "id": "2",
+                "img": "https://i.ibb.co/Qn9LDFd/17-1.jpg",
+                "name": "Kid's Shoes",
+                "price":"$150"
+            },
+            {
+                "id": "3",
+                "img": "https://i.ibb.co/CQfFyR2/18-1.jpg",
+                "name": "Kid's Watch",
+                "price":"$55"
+            },
+            {
+                "id": "4",
+                "img": "https://i.ibb.co/8KNR8RH/19-1.jpg",
+                "name": "Kid's Black T-shirt",
+                "price":"$30"
+            },
+            {
+                "id": "5",
+                "img": "https://i.ibb.co/kGsSHfX/20-1.jpg",
+                "name": "Kid's Premium Watch",
+                "price":"$55"
+            }
+        ]
+    }
+]
